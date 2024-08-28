@@ -11,7 +11,7 @@
 2. Plx (Paralaks) dan e_Plx (Error dalam Paralaks):
    * Definisi: 
    Plx adalah singkatan dari paralaks, yang merupakan sudut kecil yang diukur ketika bintang dilihat dari dua posisi berbeda dalam orbit Bumi. Paralaks digunakan untuk menghitung jarak ke bintang. Satuan yang 
-   digunakan adalah parsec (pc), dengan 1pc=3.086×10 16 m.
+   digunakan adalah parsec (pc), dengan $1pc=3.086\times10^{16} m$.
    e_Plx: Ini adalah ketidakpastian atau galat dalam pengukuran paralaks, yang menunjukkan seberapa akurat pengukuran jarak tersebut.
    * Penggunaan: Paralaks adalah metode utama untuk mengukur jarak bintang yang relatif dekat dengan Bumi.
 
